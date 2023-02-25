@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/modules/calculationservice/build/
+/modules/calculationservice/build/classes/java/main/
+/modules/servicediscoveryserver/build/
+/modules/servicediscoveryserver/build/classes/java/main/
+/modules/userservice/build/
+/modules/userservice/build/classes/java/main/
