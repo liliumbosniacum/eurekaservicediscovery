@@ -1,0 +1,4 @@
+rootProject.name = 'eurekaservicediscovery'
+
+include 'modules:calculationservice', 'modules:servicediscoveryserver', 'modules:userservice'
+
